@@ -8,4 +8,5 @@ int main()
     cout << "Hello World!\n";
     cin >> a;
     cout << "world:" << a;
+    int r, b;
 }
