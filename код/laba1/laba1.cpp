@@ -9,4 +9,8 @@ int main()
     cin >> a;
     cout << "world:" << a;
     int r, b;
+    cout << "Hello!\n";
+    cin >> r;
+    cin >> b;
+
 }
