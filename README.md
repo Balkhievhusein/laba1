@@ -1,3 +1,3 @@
 laba1
-Balkhiev Husein 
+Gaybov Hasan 
 ITS-b-o-21-1
